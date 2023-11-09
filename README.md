@@ -1,1 +1,1 @@
-# javascript-array-methods-in-rust
+# JavaScript Array Functions Implemented in Rust
